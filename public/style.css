@@ -21,6 +21,9 @@ button, a.btn {
     transition: background-color .17s ease;
 }
 
+button {border-radius: 4px;}
+}
+
 button:hover, a.btn:hover {
     background-color: #677bc4 !important;
 }
